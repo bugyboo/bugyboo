@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yasser @bugyboo
-- 👀 I’m interested in microservices and blockchain
+- 👀 I’m interested in microservices, 3D modeling and blockchain technologies
 - 🌱 I’m currently learning golang, reactive programing, Spring Native
 - 📫 DM in Twitter are always welcome twitter.com/bugyboo
 
